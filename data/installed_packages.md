@@ -275,4 +275,4 @@ Repository link: https://eulermaker.compass-ci.openeuler.openatom.cn/api/ems1/re
 | ros-jazzy-zstd-vendor.x86_64                                       | 0.30.0-0.oe2403          | @openEuler-Jazzy |
 | xz-devel.x86_64                                                   | 5.4.7-1.oe2403           | @openEuler-Jazzy |
 
-Table last updated: 12.27
+Table last updated: 2024 12.27
